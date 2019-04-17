@@ -1,7 +1,7 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
-baseurl: "" # the subpath of your site, e.g. /blog
+title: Timiking official website | Gospel hardcore minister
+description: "The best christian bars from the south south Niger Delta of Nigeria, Timiking will take you on a journey through the streets while delivering the pure word of God"
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blaze4dem.github.io/timiking/" # the name of your domain
 logo_url: svg/min/logo.svg
 
